@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/simonw/llm-claude-3/commit/5b42bfc3e5140e0849895fc4802190ae67c8f1bf",
       "git:hexsha": "5b42bfc3e5140e0849895fc4802190ae67c8f1bf",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-15T09:06:39.066484+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/llm-claude-3/commit/98b8cafa69f15ea923931e922190ef804c64d59b",
